@@ -7,7 +7,6 @@ Smart recipe generator using Xiaomi MiMo based on available ingredients and diet
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 200K tokens/day
 
 ## 🚀 Quick Start
 
